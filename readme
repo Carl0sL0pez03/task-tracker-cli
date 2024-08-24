@@ -80,3 +80,7 @@ g. **List Tasks by Status**
 - `main.go`: The main CLI code handling command logic.
 - `/task`: Package containing the logic for managing tasks (add, update, delete, list).
 - `tasks.json`: JSON file where tasks are stored. It will be automatically created if it does not exist.
+
+# Challange roadmap
+
+- https://roadmap.sh/projects/task-tracker
